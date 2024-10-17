@@ -1,6 +1,7 @@
 import { createRoot } from 'react-dom/client'
-import Map from './Map.jsx'
+import AparecaDesapareca from './atividades/AparecaDesapareca'
+
 
 createRoot(document.getElementById('root')).render(
-    <Map/>
+    <AparecaDesapareca/>
 )

@@ -1,0 +1,11 @@
+.fundo-preto{
+    background-color: black ;
+    min-height: 100px;
+    color:rgb(217, 196, 246)
+}
+
+.fundo-branco{
+    background-color: white ;
+    min-height: 100px;
+    color:rgb(78, 0, 181)
+}

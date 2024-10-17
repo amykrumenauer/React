@@ -2,14 +2,14 @@ export default function Map(){
 
     const lista=[
     {
-        name: "Gui",
-        idade: 22,
-        escola: "UFPR"
+        name: "Amanda",
+        idade: 18,
+        escola: "PUCPR e UFPR"
     },
     {
-        name: "Laura",
-        idade: 18,
-        escola: "senai"
+        name: "Pedro",
+        idade: 19,
+        escola: "PUCPR"
     }
     ]
 
