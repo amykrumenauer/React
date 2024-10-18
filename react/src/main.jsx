@@ -1,7 +1,6 @@
 import { createRoot } from 'react-dom/client'
-import AparecaDesapareca from './atividades/AparecaDesapareca'
-
+import Postagem from './atividades/Postagem'
 
 createRoot(document.getElementById('root')).render(
-    <AparecaDesapareca/>
+    <Postagem/>
 )
